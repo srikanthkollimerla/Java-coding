@@ -1,7 +1,7 @@
 /* Find if a given string is unique or not*/
 
 import java.util.*;
-class isUnique {
+class Unique {
 	
 	public boolean check(String word)
 		{
