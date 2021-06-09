@@ -1,3 +1,5 @@
+//This program is to implement Stacks of Stacks and limiting each Stach with a fixed quantity
+
 import java.util.Stack;
 import java.util.*;
 import java.util.Iterator;  
